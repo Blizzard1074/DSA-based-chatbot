@@ -1,0 +1,1152 @@
+{
+    "example": {
+        "meanings": [
+            {
+                "definitions": [
+                    {
+                        "definition": "A representative form or pattern.",
+                        "example": "The archetype of faith."
+                    }
+                ]
+            }
+        ]
+    },
+    "sample": {
+        "meanings": [
+            {
+                "definitions": [
+                    {
+                        "definition": "A part or an example of something.",
+                        "example": "A sample of water."
+                    }
+                ]
+            }
+        ]
+    },
+    "hello": [
+        {
+            "word": "hello",
+            "phonetics": [
+                {
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75797336",
+                    "license": {
+                        "name": "BY-SA 4.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                    }
+                },
+                {
+                    "text": "/h\u0259\u02c8l\u0259\u028a/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9021983",
+                    "license": {
+                        "name": "BY 3.0 US",
+                        "url": "https://creativecommons.org/licenses/by/3.0/us"
+                    }
+                },
+                {
+                    "text": "/h\u0259\u02c8lo\u028a/",
+                    "audio": ""
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "\"Hello!\" or an equivalent greeting.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [
+                        "greeting"
+                    ],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To greet with \"hello\".",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "interjection",
+                    "definitions": [
+                        {
+                            "definition": "A greeting (salutation) said when meeting someone or acknowledging someone\u2019s arrival or presence.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Hello, everyone."
+                        },
+                        {
+                            "definition": "A greeting used when answering the telephone.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Hello? How may I help you?"
+                        },
+                        {
+                            "definition": "A call for response if it is not clear if anyone is present or listening, or if a telephone conversation may have been disconnected.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Hello? Is anyone there?"
+                        },
+                        {
+                            "definition": "Used sarcastically to imply that the person addressed or referred to has done something the speaker or writer considers to be foolish.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "You just tried to start your car with your cell phone. Hello?"
+                        },
+                        {
+                            "definition": "An expression of puzzlement or discovery.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Hello! What\u2019s going on here?"
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": [
+                        "bye",
+                        "goodbye"
+                    ]
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/hello"
+            ]
+        }
+    ],
+    "yes": [
+        {
+            "word": "yes",
+            "phonetic": "/j\u025bs/",
+            "phonetics": [
+                {
+                    "text": "/j\u025bs/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yes.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=718836",
+                    "license": {
+                        "name": "BY-SA 3.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "An affirmative expression; an answer that shows agreement or acceptance.",
+                            "synonyms": [
+                                "aye",
+                                "nod",
+                                "yea"
+                            ],
+                            "antonyms": [
+                                "nay",
+                                "no"
+                            ],
+                            "example": "Was that a yes?"
+                        },
+                        {
+                            "definition": "A vote of support or in favor/favour of something.",
+                            "synonyms": [
+                                "aye",
+                                "yea"
+                            ],
+                            "antonyms": [
+                                "nay"
+                            ],
+                            "example": "The workers voted on whether to strike, and there were thirty \"yeses\" and one \"no\"."
+                        }
+                    ],
+                    "synonyms": [
+                        "aye",
+                        "nod",
+                        "yea",
+                        "aye",
+                        "yea"
+                    ],
+                    "antonyms": [
+                        "nay",
+                        "nay",
+                        "no"
+                    ]
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To agree with, affirm, approve.",
+                            "synonyms": [
+                                "agree",
+                                "consent",
+                                "nod"
+                            ],
+                            "antonyms": [],
+                            "example": "Did he yes the veto?"
+                        },
+                        {
+                            "definition": "To attempt to flatter someone by habitually agreeing",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [
+                        "agree",
+                        "consent",
+                        "nod"
+                    ],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "interjection",
+                    "definitions": [
+                        {
+                            "definition": "Used to express pleasure, joy, or great excitement.",
+                            "synonyms": [],
+                            "antonyms": [
+                                "no"
+                            ],
+                            "example": "Our second goal of the match! Yes!"
+                        },
+                        {
+                            "definition": "Response that confirms that the user is paying attention.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": [
+                        "no"
+                    ]
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/yes"
+            ]
+        }
+    ],
+    "ab": [
+        {
+            "word": "ab",
+            "phonetic": "/\u00e6b/",
+            "phonetics": [
+                {
+                    "text": "/\u00e6b/",
+                    "audio": ""
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "Abdominal muscle.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/ab"
+            ]
+        },
+        {
+            "word": "ab",
+            "phonetic": "/\u00e6b/",
+            "phonetics": [
+                {
+                    "text": "/\u00e6b/",
+                    "audio": ""
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "An abscess caused by injecting an illegal drug, usually heroin.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/ab"
+            ]
+        },
+        {
+            "word": "ab",
+            "phonetic": "/\u00e6b/",
+            "phonetics": [
+                {
+                    "text": "/\u00e6b/",
+                    "audio": ""
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To abseil.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To cause a premature termination of (a fetus); to end a pregnancy before term.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To end prematurely; to stop in the preliminary stages; to turn back.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To stop or fail at something in the preliminary stages.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To become checked in normal development, so as either to remain rudimentary or shrink away wholly; to cease organic growth before maturation; to become sterile.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To cause an organism to develop minimally; to cause rudimentary development to happen; to prevent maturation.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To abandon a mission at any point after the beginning of the mission and prior to its completion.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To terminate a process prior to completion.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "The expulsion from the womb of a foetus or embryo before it is fully developed, with loss of the foetus; either naturally as a spontaneous abortion (now usually called a miscarriage), or deliberately as an induced abortion.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "An aborted foetus; an abortus.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A misshapen person or thing; a monstrosity.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Failure or abandonment of a project, promise, goal etc.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Arrest of development of any organ, so that it remains an imperfect formation or is absorbed.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "The cessation of an illness or disease at a very early stage.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [
+                        "aborticide",
+                        "embryoctony",
+                        "feticide",
+                        "foeticide",
+                        "pregnancy",
+                        "termination",
+                        "aborticide",
+                        "feticide",
+                        "foeticide",
+                        "pregnancy",
+                        "termination",
+                        "misbirth",
+                        "miscarriage"
+                    ],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "adverb",
+                    "definitions": [
+                        {
+                            "definition": "On all sides; around.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "I looked about at the scenery that surrounded me."
+                        },
+                        {
+                            "definition": "Here and there; around; in one place and another; up and down.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Bits of old machinery were lying about."
+                        },
+                        {
+                            "definition": "From one place or position to another in succession; indicating repeated movement or activity.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "walking about;\u2003 rushing about;\u2003 jumping about;\u2003 thrashing about"
+                        },
+                        {
+                            "definition": "Indicating unproductive or unstructured activity.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "messing about;\u2003  fooling about;\u2003 loafing about"
+                        },
+                        {
+                            "definition": "Nearly; approximately; with close correspondence in quality, manner, degree, quantity, or time; almost.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Dinner's about ready."
+                        },
+                        {
+                            "definition": "Near; in the vicinity.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To a reversed order; half round; facing in the opposite direction; from a contrary point of view.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "to face about;\u2003 to turn oneself about"
+                        },
+                        {
+                            "definition": "In succession; one after another; in the course of events.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "In circuit; circularly; by a circuitous way; around the outside; in circumference.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "a mile about, and a third of a mile across"
+                        }
+                    ],
+                    "synonyms": [
+                        "around"
+                    ],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "preposition",
+                    "definitions": [
+                        {
+                            "definition": "In a circle around; all round; on every side of; on the outside of.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The snake was coiled about his ankle."
+                        },
+                        {
+                            "definition": "Over or upon different parts of; through or over in various directions; here and there in; to and fro in; throughout.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "He was well known about town."
+                        },
+                        {
+                            "definition": "Indicates that something will happen very soon; indicates a plan or intention to do something.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Concerning; with regard to; on account of; on the subject of; to affect.",
+                            "synonyms": [
+                                "apropos",
+                                "as for"
+                            ],
+                            "antonyms": [],
+                            "example": "He talked a lot about his childhood."
+                        },
+                        {
+                            "definition": "Concerned with; engaged in; intent on.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "to be about one's business"
+                        },
+                        {
+                            "definition": "Within or in the immediate neighborhood of; in contiguity or proximity to; near, as to place.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "I can't find my reading glasses, but they must be somewhere about the house."
+                        },
+                        {
+                            "definition": "On one's person; nearby the person.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "I had no weapon about me but a stick."
+                        },
+                        {
+                            "definition": "In or near, as in mental faculties or in the possession of; under the control of; at one's command; in one's makeup.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "He has his wits about him."
+                        }
+                    ],
+                    "synonyms": [
+                        "apropos",
+                        "as for"
+                    ],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/ab",
+                "https://en.wiktionary.org/wiki/abort",
+                "https://en.wiktionary.org/wiki/abortion",
+                "https://en.wiktionary.org/wiki/about"
+            ]
+        },
+        {
+            "word": "ab",
+            "phonetic": "/\u00e6b/",
+            "phonetics": [
+                {
+                    "text": "/\u00e6b/",
+                    "audio": ""
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "The early stages of; the beginning process; the start.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/ab"
+            ]
+        }
+    ],
+    "greed": [
+        {
+            "word": "greed",
+            "phonetic": "/\u0261\u0279id/",
+            "phonetics": [
+                {
+                    "text": "/\u0261\u0279id/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/greed-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=16555036"
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "A selfish or excessive desire for more than is needed or deserved, especially of money, wealth, food, or other possessions.",
+                            "synonyms": [
+                                "avarice",
+                                "covetousness",
+                                "gluttony",
+                                "greediness",
+                                "rapacity"
+                            ],
+                            "antonyms": [],
+                            "example": "His greed was his undoing."
+                        }
+                    ],
+                    "synonyms": [
+                        "avarice",
+                        "covetousness",
+                        "gluttony",
+                        "greediness",
+                        "rapacity"
+                    ],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To desire in a greedy manner, or to act on such a desire.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/greed"
+            ]
+        }
+    ],
+    "rope": [
+        {
+            "word": "rope",
+            "phonetic": "/\u0279\u0259\u028ap/",
+            "phonetics": [
+                {
+                    "text": "/\u0279\u0259\u028ap/",
+                    "audio": ""
+                },
+                {
+                    "text": "/\u0279o\u028ap/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rope-us.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1770038",
+                    "license": {
+                        "name": "BY-SA 3.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "Thick strings, yarn, monofilaments, metal wires, or strands of other cordage that are twisted together to form a stronger line.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Nylon rope is usually stronger than similar rope made of plant fibers."
+                        },
+                        {
+                            "definition": "An individual length of such material.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The swinging bridge is constructed of 40 logs and 30 ropes."
+                        },
+                        {
+                            "definition": "A cohesive strand of something.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The duchess wore a rope of pearls to the soir\u00e9e."
+                        },
+                        {
+                            "definition": "A continuous stream.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A hard line drive.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "He hit a rope past third and into the corner."
+                        },
+                        {
+                            "definition": "A long thin segment of soft clay, either extruded or formed by hand.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A data structure resembling a string, using a concatenation tree in which each leaf represents a character.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A unit of distance equivalent to the distance covered in six months by a god flying at ten million miles per second.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "(jewelry) A necklace of at least 1 meter in length.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Cordage of at least 1 inch in diameter, or a length of such cordage.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A unit of length equal to 20 feet.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Flunitrazepam, also known as Rohypnol.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A shot of semen that a man releases during ejaculation.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "(in the plural) The small intestines.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "the ropes of birds"
+                        }
+                    ],
+                    "synonyms": [
+                        "cord",
+                        "line",
+                        "twine",
+                        "infinitude",
+                        "rajju"
+                    ],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "verb",
+                    "definitions": [
+                        {
+                            "definition": "To tie (something) with rope.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The robber roped the victims."
+                        },
+                        {
+                            "definition": "To throw a rope (or something similar, e.g. a lasso, cable, wire, etc.) around (something).",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The cowboy roped the calf."
+                        },
+                        {
+                            "definition": "To be formed into rope; to draw out or extend into a filament or thread.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "To commit suicide.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "My life is a mess; I might as well rope."
+                        }
+                    ],
+                    "synonyms": [
+                        "lasso",
+                        "bind",
+                        "secure",
+                        "tie"
+                    ],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/rope"
+            ]
+        }
+    ],
+    "mountain": [
+        {
+            "word": "mountain",
+            "phonetic": "/\u02c8ma\u028ant\u026an/",
+            "phonetics": [
+                {
+                    "text": "/\u02c8ma\u028ant\u026an/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountain-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023252",
+                    "license": {
+                        "name": "BY 3.0 US",
+                        "url": "https://creativecommons.org/licenses/by/3.0/us"
+                    }
+                },
+                {
+                    "text": "/\u02c8ma\u028antn\u0329/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountain-us.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1113610",
+                    "license": {
+                        "name": "BY-SA 3.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "We spent the weekend hiking in the mountains."
+                        },
+                        {
+                            "definition": "Something very large in size or quantity; a huge amount; a great heap.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "He was a real mountain of a man, standing seven feet tall."
+                        },
+                        {
+                            "definition": "Of, belonging to, relating to, or found on a mountain; like a mountain in size; (of living things) growing or living on a mountain.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "some mountain ranges; the high mountain top; a scenic mountain view; the mountain lodge; the leaves of mountain cranberries; a mountain goat"
+                        },
+                        {
+                            "definition": "A difficult task or challenge.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A woman's large breast.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "The twenty-first Lenormand card.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Wine made from grapes that grow on a mountain.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/mountain"
+            ]
+        }
+    ],
+    "no": [
+        {
+            "word": "no",
+            "phonetic": "/n\u0259\u028a/",
+            "phonetics": [
+                {
+                    "text": "/n\u0259\u028a/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/no-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023276",
+                    "license": {
+                        "name": "BY 3.0 US",
+                        "url": "https://creativecommons.org/licenses/by/3.0/us"
+                    }
+                },
+                {
+                    "text": "/no\u028a/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/no-us.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=711582",
+                    "license": {
+                        "name": "BY-SA 3.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "A negating expression; an answer that shows disagreement or disapproval",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A vote not in favor, or opposing a proposition",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The workers voted on whether to strike, and there were thirty \"yeses\" and two \"nos\"."
+                        }
+                    ],
+                    "synonyms": [
+                        "nay",
+                        "nope"
+                    ],
+                    "antonyms": [
+                        "aye",
+                        "yea",
+                        "yes"
+                    ]
+                },
+                {
+                    "partOfSpeech": "adverb",
+                    "definitions": [
+                        {
+                            "definition": "(now only used with different, with comparatives more and less, and informally with certain other adjectives such as good and fun) Not, not at all.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "I just want to find out whether she's coming or no. (Scotland)"
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "preposition",
+                    "definitions": [
+                        {
+                            "definition": "Without",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "Like",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/no"
+            ]
+        },
+        {
+            "word": "no",
+            "phonetic": "/n\u0259\u028a/",
+            "phonetics": [
+                {
+                    "text": "/n\u0259\u028a/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/no-uk.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9023276",
+                    "license": {
+                        "name": "BY 3.0 US",
+                        "url": "https://creativecommons.org/licenses/by/3.0/us"
+                    }
+                },
+                {
+                    "text": "/no\u028a/",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/no-us.mp3",
+                    "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=711582",
+                    "license": {
+                        "name": "BY-SA 3.0",
+                        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                    }
+                }
+            ],
+            "meanings": [
+                {
+                    "partOfSpeech": "adverb",
+                    "definitions": [
+                        {
+                            "definition": "At or towards the interior of a defined space, such as a building or room.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "He ran to the edge of the swimming pool and dived in."
+                        },
+                        {
+                            "definition": "Towards the speaker or other reference point.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "For six hours the tide flows in, then for another six hours it flows out."
+                        },
+                        {
+                            "definition": "So as to be enclosed or surrounded by something.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Bring the water to the boil and drop the vegetables in."
+                        },
+                        {
+                            "definition": "Still eligible to play, e.g. able to bat in cricket and baseball.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "He went for the wild toss but wasn't able to stay in."
+                        },
+                        {
+                            "definition": "After the beginning of something.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The show still didn't become interesting 20 minutes in."
+                        },
+                        {
+                            "definition": "(in combination, after a verb) Denotes a gathering of people assembled for the stated activity, sometimes, though not always, suggesting a protest.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [],
+                    "antonyms": []
+                },
+                {
+                    "partOfSpeech": "noun",
+                    "definitions": [
+                        {
+                            "definition": "An abstract entity used to describe quantity.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Zero, one, \u22121, 2.5, and pi are all numbers."
+                        },
+                        {
+                            "definition": "A numeral: a symbol for a non-negative integer.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The number 8 is usually made with a single stroke."
+                        },
+                        {
+                            "definition": "An element of one of several sets: natural numbers, integers, rational numbers, real numbers, complex numbers, and sometimes extensions such as hypercomplex numbers, etc.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "The equation e^{i\\pi}+1=0 includes the most important numbers: 1, 0, \\pi, i, and e."
+                        },
+                        {
+                            "definition": "(Followed by a numeral; used attributively) Indicating the position of something in a list or sequence. Abbreviations: No or No., no or no. (in each case, sometimes written with a superscript \"o\", like N\u00ba or \u2116). The symbol \"#\" is also used in this manner.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Horse number 5 won the race."
+                        },
+                        {
+                            "definition": "Quantity.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Any number of people can be reading from a given repository at a time."
+                        },
+                        {
+                            "definition": "A sequence of digits and letters used to register people, automobiles, and various other items.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Her passport number is C01X864TN."
+                        },
+                        {
+                            "definition": "A telephone number.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "(grammar) Of a word or phrase, the state of being singular, dual or plural, shown by inflection.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "Adjectives and nouns should agree in gender, number, and case."
+                        },
+                        {
+                            "definition": "(in the plural) Poetic metres; verses, rhymes.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A performance; especially, a single song or song and dance routine within a larger show.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "For his second number, he sang \"The Moon Shines Bright\"."
+                        },
+                        {
+                            "definition": "A person.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "An item of clothing, particularly a stylish one.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "A marijuana cigarette, or joint; also, a quantity of marijuana bought form a dealer.",
+                            "synonyms": [],
+                            "antonyms": []
+                        },
+                        {
+                            "definition": "An issue of a periodical publication.",
+                            "synonyms": [],
+                            "antonyms": [],
+                            "example": "the latest number of a magazine"
+                        },
+                        {
+                            "definition": "A large amount, in contrast to a smaller amount; numerical preponderance.",
+                            "synonyms": [],
+                            "antonyms": []
+                        }
+                    ],
+                    "synonyms": [
+                        "numeral",
+                        "rime",
+                        "scalar"
+                    ],
+                    "antonyms": []
+                }
+            ],
+            "license": {
+                "name": "CC BY-SA 3.0",
+                "url": "https://creativecommons.org/licenses/by-sa/3.0"
+            },
+            "sourceUrls": [
+                "https://en.wiktionary.org/wiki/No.",
+                "https://en.wiktionary.org/wiki/in",
+                "https://en.wiktionary.org/wiki/no",
+                "https://en.wiktionary.org/wiki/number"
+            ]
+        }
+    ]
+}
